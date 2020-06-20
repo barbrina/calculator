@@ -9,6 +9,12 @@
 
 ## Instalação
 
+### Fazendo download das dependências
+
+<p align="justify"> - Instalar o tkinter: python -m tkinter
+<p align="justify"> - Instalar o ttkthemes: pip install ttkthemes
+</p>
+
 ### Fazendo download do script
 
 `git clone https://github.com/baka-noob/Calculator`
@@ -31,14 +37,7 @@ brew install python3.8
 
 Windows - <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe">Downlaod x86</a>, <a href="https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe">Download x86-64</a>
 
-
-### Dependencias
-
-<p align="justify"> - Instalar o tkinter: python -m tkinter
-<p align="justify"> - Instalar o ttkthemes: pip install ttkthemes
-</p>
-
-### Iniciar script
+## Iniciar script
 
 `python3.8 main.py`
 ou
