@@ -11,9 +11,13 @@
 
 ### Fazendo download das dependências
 
-<p align="justify"> - Instalar o tkinter: python -m tkinter
-<p align="justify"> - Instalar o ttkthemes: pip install ttkthemes
-</p>
+• Tkinter
+
+`python -m tkinter`
+ 
+• Ttkthemes
+
+`pip install ttkthemes`
 
 ### Fazendo download do script
 
